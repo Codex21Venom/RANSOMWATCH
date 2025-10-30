@@ -1,1 +1,3 @@
 __pycache__/
+data/Obfuscated-MalMem2022.parquet
+data/train_features_5.jsonl
